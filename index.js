@@ -1,5 +1,6 @@
 const f = () => {
   console.log('holi');
+  console.log("a combo limpio");
 }
 
 const saludo = (nombre, mensaje) => {
